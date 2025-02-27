@@ -1,10 +1,9 @@
 # Olufunke_Data_Analysis_Portfolio
-Data Analysis Projects
-    # 👋 Hi, I'm Omogboyegun Olufunke  
-    ### Data Analyst | Researcher | Educator  
+ # 👋 Hi, I'm Omogboyegun Olufunke  
+ ### Data Analyst | Researcher | Educator  
     
-    Experienced **Data Analyst** with expertise in organizing, modeling, and analyzing data to drive **evidence-based decisions** and strategic planning. 
-    Passionate about leveraging **SQL, Python, Power BI, and Excel** to deliver impactful insights, optimize processes, and foster innovation in **healthcare and business sectors**.  
+Experienced **Data Analyst** with expertise in organizing, modeling, and analyzing data to drive **evidence-based decisions** and strategic planning. 
+Passionate about leveraging **SQL, Python, Power BI, and Excel** to deliver impactful insights, optimize processes, and foster innovation in **healthcare and business sectors**.  
     
     ---
 ## 📊 Featured Projects  
