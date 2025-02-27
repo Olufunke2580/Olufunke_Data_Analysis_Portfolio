@@ -1,0 +1,57 @@
+# 📊 Employee Attrition Analysis  
+
+This analysis explores the **attrition rate** of a company, which represents the percentage of employees leaving an organization over a given period. Attrition includes voluntary and involuntary departures such as resignations, terminations, retirements, or deaths.  
+
+## 📂 Dataset & Tools  
+- **Dataset Provider:** [@MeriSkill](https://github.com/MeriSkill)  
+- **Data Cleaning:** Power Query  
+- **Data Analysis & Visualization:** Power BI  
+- **Attrition Rate Calculation:** DAX Measure  
+
+## ⚙️ Steps Taken  
+
+### 1️⃣ Data Cleaning & Preparation (Power Query)  
+- Removed **duplicate values** to ensure data integrity.  
+- Standardized missing/null values where necessary.  
+- Created a **new column** for **age groups** using a **conditional column** for better analysis.  
+
+### 2️⃣ Data Transformation  
+- Converted categorical variables into appropriate data types.  
+- Applied **filters** to separate employees by department and gender.  
+- Created **DAX measures** for attrition rate calculation.  
+
+### 3️⃣ Data Analysis (Power BI)  
+- Visualized attrition trends across different departments and demographics.  
+- Analyzed key metrics like **attrition rate, gender distribution, and department-wise attrition**.  
+
+## 🔍 Key Insights  
+- **Total Employees:** 1,470  
+- **Total Departments:** 3  
+- **Attrition Rate:** **16.12%**  
+- **Average Monthly Income:** **$6.5K**  
+
+### 📊 Attrition by Gender  
+- **Male Attrition:** 60%  
+- **Female Attrition:** 40%  
+
+### 🏢 Attrition by Department  
+- **Research & Development:** 133 employees left (Highest)  
+- **Sales:** 92 employees left  
+- **Human Resources:** 12 employees left (Lowest)  
+
+### 📈 Attrition by Age Group  
+- **Highest Attrition:** Ages **30–35** → followed by **36–41 years**  
+- **Lowest Attrition:** Ages **18–23** and **54–60 years**  
+
+## ✅ Recommendations  
+1. **Investigate high-attrition departments** and introduce retention strategies.  
+2. **Provide adequate mentoring & support** for high-turnover job roles.  
+3. **Address workplace gender equality** to reduce male attrition.  
+
+## 📸 Dashboard Preview  
+![Demographics Dashboard](Demographics_dashboard.jpg)  
+
+## 📌 How to Use  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-username/your-repo-name.git
