@@ -1,4 +1,3 @@
-# Olufunke_Data_Analysis_Portfolio
  # 👋 Hi, I'm Omogboyegun Olufunke  
  ### Data Analyst | Researcher | Educator  
     
