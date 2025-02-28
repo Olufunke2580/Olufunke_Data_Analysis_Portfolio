@@ -7,9 +7,10 @@ Passionate about leveraging **SQL, Python, Power BI, and Excel** to deliver impa
     ---
 ## 📊 Featured Projects  
 
-###🎬 TMDB Movie Dataset Analysis
--- **Objective: Analyzed trends in budget, revenue, profit, and audience engagement.
--- **Tools Used: Python (Pandas, NumPy, Seaborn, Matplotlib)
+
+### 1️⃣ [TMDB Movie Dataset Analysis](#)  
+- **Objective:** Analyzed trends in budget, revenue, profit, and audience engagement.
+- **Tools Used:** Python (Pandas, NumPy, Seaborn, Matplotlib)
 
 ### 1️⃣ [Employee Attrition Analysis](#)  
 - **Objective:** Identified factors influencing employee turnover.  
